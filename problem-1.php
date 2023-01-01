@@ -1,4 +1,5 @@
 <?php
+//Write a PHP program to compute the sum of the two given integer values. If the two values are the same, then returns triple their sum
 function test($x)
 {
 //    return $x<51 ? 51-$x : ($x-51)*3;
