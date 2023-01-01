@@ -5,10 +5,10 @@ function test($x, $y)
 //    return $x==$y ? ($x+$y)*3 : $x+$y;
     if($x==$y)
     {
-        echo ($x+$y)*3;
+        return ($x+$y)*3;
     }
     else{
-        echo $x+$y;
+        return $x+$y;
     }
 }
 
