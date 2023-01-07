@@ -14,4 +14,6 @@ function test($x)
     }
 }
 
-echo "Result is : ".test(2);
+echo "Result is : ".test(12);
+echo "Result is : ".test(21);
+echo "Result is : ".test(37);
